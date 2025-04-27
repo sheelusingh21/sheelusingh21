@@ -61,19 +61,7 @@
 </p>
 
 
----
 
-<details>
-  <summary>🚀 Featured Projects</summary>
-  <br/>
-  <ul>
-    <li><a href="https://github.com/YOUR-USERNAME/data-visualizer">📊 Data-Visualizer</a> – Interactive dashboards with Plotly & Dash.</li>
-    <li><a href="https://github.com/YOUR-USERNAME/ml-pipelines">🤖 ML-Pipelines</a> – End-to-end machine learning workflows in Python.</li>
-    <li><a href="https://github.com/YOUR-USERNAME/stock-analyzer">📈 Stock-Analyzer</a> – Time series analysis & forecasting.</li>
-  </ul>
-</details>
-
----
 
 <small><i>Last updated on commit date</i></small>
 
